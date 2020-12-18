@@ -211,13 +211,14 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("../img/herobg.jpg") top center;
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
 #hero:before {
   content: "";
-  background: rgba(5, 13, 24, 0.3);
+  background: rgba(40,50,60,0.5);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -252,6 +253,11 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 4px;
   letter-spacing: 1px;
   border-bottom: 3px solid #149ddd;
+}
+
+#mypic{
+
+
 }
 
 @media (min-width: 1024px) {
