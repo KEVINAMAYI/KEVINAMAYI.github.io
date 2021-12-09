@@ -3,7 +3,7 @@
 ![Alt text](assets/img/main-port-pic.png?raw=true "Optional Title")
 
 
-#### A page for selling letuce, 2021-10-07
+#### Personal portfolio, 2021-10-07
 #### By **Kevin Amayi Musungu**
 ## Description
 This a web application for my portfolio, diplaying my skill, the projects that I have done and testimonials from people whom I have worked with and my contact details.
